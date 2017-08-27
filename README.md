@@ -22,4 +22,5 @@ While Mongo DB is running, in a new terminal
 
 ### Deploy to Heroku
 `git push heroku master`
+
 `heroku open` opens app on correct URL
